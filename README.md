@@ -7,7 +7,6 @@ Enter your **city, interests, and trip duration**, and let AI create the perfect
 ✅ AI-powered **personalized itineraries**  
 ✅ Supports **multi-day trips**  
 ✅ Fetches **city images** dynamically  
-✅ Generates **Google Maps links** for navigation  
 ✅ User-friendly **Gradio UI**  
 
 ## 🛠️ Tech Stack
