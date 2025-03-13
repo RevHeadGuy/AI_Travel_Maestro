@@ -42,4 +42,38 @@ View images for easy navigation
 
 ![image](https://github.com/user-attachments/assets/8da3e93a-d92e-423c-b7cb-cbf629090738)
 
+🏗️ Workflow Diagram
+
+mermaid
+
+graph TD;
+  A[User Inputs] -->|City, Interests, Days| B[Process Inputs]
+  B --> C[Generate Itinerary]
+  C --> D[Fetch City Image]
+  D --> E[Generate Google Maps Link]
+  E --> F[Format Itinerary]
+  F --> G[Display Final Itinerary]
+  
+🔑 API Keys Required
+
+Groq API for LLM
+
+Unsplash API for city images
+
+Google Maps API (optional)
+
+Create a .env file and add:
+
+GROQ_API_KEY=your_api_key_here
+
+UNSPLASH_ACCESS_KEY=your_access_key_here
+
+🤝 Contributing
+PRs are welcome! Fork the repo, make changes, and submit a pull request.
+
+📜 License
+MIT License © 2025 AI Travel Maestro
+
+
+
 
