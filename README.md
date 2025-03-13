@@ -20,6 +20,7 @@ Enter your **city, interests, and trip duration**, and let AI create the perfect
 ### 1️⃣ Clone the Repository
 
 git clone https://github.com/RevHeadGuy/AI_Travel_Maestro.git
+
 cd AI_Travel_Maestro
 
 2️⃣ Install Dependencies
