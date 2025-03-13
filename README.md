@@ -19,5 +19,5 @@ Enter your **city, interests, and trip duration**, and let AI create the perfect
 ## 🚀 Installation
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/AI-Travel-Maestro.git
+git clone https://github.com/RevHeadGuy/AI-Travel-Maestro.git
 cd AI-Travel-Maestro
