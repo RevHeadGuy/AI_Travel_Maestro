@@ -15,7 +15,6 @@ Enter your **city, interests, and trip duration**, and let AI create the perfect
 - **Gradio** (for UI) 🎨  
 - **Graphviz** (for workflow visualization)  
 - **Unsplash API** (for images) 🖼️  
-- **Google Maps** (for location links) 🌍  
 
 ## 🚀 Installation
 ### 1️⃣ Clone the Repository
