@@ -18,12 +18,23 @@ Enter your **city, interests, and trip duration**, and let AI create the perfect
 
 ## 🚀 Installation
 ### 1️⃣ Clone the Repository
-```bash
+
 git clone https://github.com/RevHeadGuy/AI_Travel_Maestro.git
 cd AI_Travel_Maestro
 
 2️⃣ Install Dependencies
 
 pip install -r requirements.txt
+
+3️⃣ Run the Application
+
+python app.py
+
+🎯 How It Works
+Enter your destination (city name)
+Specify your interests (e.g., food, adventure, culture)
+Set the trip duration
+AI generates an itinerary with top attractions & activities
+View images for easy navigation
 
 
