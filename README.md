@@ -38,4 +38,8 @@ Set the trip duration
 AI generates an itinerary with top attractions & activities
 View images for easy navigation
 
+📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/8da3e93a-d92e-423c-b7cb-cbf629090738)
+
 
