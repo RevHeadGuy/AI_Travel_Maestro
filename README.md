@@ -40,7 +40,7 @@ View images for easy navigation
 
 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/8da3e93a-d92e-423c-b7cb-cbf629090738)
+![Uploading Screenshot 2025-04-09 at 12.13.19 AM.png…]()
 
 🏗️ Workflow Diagram
 
