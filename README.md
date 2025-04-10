@@ -1,4 +1,4 @@
-# 🗺️ AI Travel Maestro
+<img width="1440" alt="Screenshot 2025-04-10 at 9 52 19 PM" src="https://github.com/user-attachments/assets/d384b237-f011-4bbc-8212-f60edf2e7d68" /># 🗺️ AI Travel Maestro
 
 AI Travel Maestro is an intelligent travel planner that generates **personalized itineraries** based on user preferences. 🚀  
 Enter your **city, interests, and trip duration**, and let AI create the perfect **day trip or vacation plan** for you!
@@ -40,7 +40,7 @@ View images for easy navigation
 
 📸 Screenshots
 
-<img width="1440" alt="Screenshot 2025-04-09 at 12 13 19 AM" src="https://github.com/user-attachments/assets/b3699739-085c-4d08-a399-c70f7981d4a5" />
+![Uploading Screenshot 2025-04-10 at 9.52.19 PM.png…]()
 
 🏗️ Workflow Diagram
 
